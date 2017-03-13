@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <litepat>
-    <dbname vale="AroundWeather" />
+    <dbname vale="Around_Weather" />
     <version vale="1" />
     <list>
         <mapping class="com.example.lks.aroundweather.db.Province" />
