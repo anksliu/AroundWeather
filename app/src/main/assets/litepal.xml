@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<litepat>
-    <dbname vale="Around_Weather" />
-    <version vale="1" />
+<litepal>
+    <dbname value="around_Weather" />
+    <version value="1" />
     <list>
         <mapping class="com.example.lks.aroundweather.db.Province" />
         <mapping class="com.example.lks.aroundweather.db.City" />
         <mapping class="com.example.lks.aroundweather.db.County" />
     </list>
-</litepat>
+</litepal>
